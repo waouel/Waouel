@@ -79,3 +79,14 @@ I'm always excited to collaborate on innovative projects that combine **cybersec
 
 📧 **Open to opportunities worldwide** | 🌐 **Remote collaboration ready** | 🤝 **Available for consulting**
 
+## 📂 Solidity PoCs — Multilingual Structure
+
+✅ [English version](./EN)  
+✅ [Version française](./FR)  
+✅ [Deutsche Version](./DE)  
+✅ [Versione italiana](./IT)  
+✅ [النسخة العربية](./AR)
+
+Each folder contains all my Solidity Proof of Concepts for Blockchain, Governance, Healthcare and Security.
+
+
